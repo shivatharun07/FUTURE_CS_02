@@ -1,6 +1,6 @@
-# 🚨 Task 2 - Phishing Simulation with SET
+# 🚨 Task 2 - Social Engineering & Phishing Simulation
 
-This project is part of the FutureSkills Prime Cybersecurity Internship.  
+This project is part of the FutureInterns Cybersecurity Internship.  
 I used the **Social Engineering Toolkit (SET)** to simulate a phishing attack by cloning a test login page and capturing credentials.
 
 ---
